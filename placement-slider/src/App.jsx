@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <BrowserRouter basename='/placement-slider/'>
+      <BrowserRouter basename='/Working-Site/'>
       <Routes>
         <Route path='placement' element={<Placement/>}> 
          
