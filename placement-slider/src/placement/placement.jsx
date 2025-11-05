@@ -4,6 +4,7 @@ import './placement.css';
 import { placementdata } from './placementdata';
 
 export default function Placement() {
+  console.log("Hello")
   const [place, setPlace] = useState([]);
 
   useEffect(() => {
