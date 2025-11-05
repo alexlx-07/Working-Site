@@ -2,7 +2,7 @@ export const placementdata = [
   {
     id: 1,
     name: "Aarav Patel",
-    role: "Frontend Developer",
+    role: "Frontend Developers",
     company: "Tata Consultancy Services (TCS)",
     img: "https://xsgames.co/randomusers/assets/avatars/male/1.jpg",
   },
